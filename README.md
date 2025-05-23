@@ -49,8 +49,8 @@ sudo apt install -y \
 
 ## run 
 
-git clone https://github.com/user/raspi-autostart.git
-cd raspi-autostart
+git clone https://github.com/nadar18/Dashboard.git
+cd Dashboard
 chmod +x setup.sh
 ./setup.sh
 
