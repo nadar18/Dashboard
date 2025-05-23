@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/pi/raspi-autostart/refresh.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Raspberry Pi Kiosk Switcher
+Comment=Automatically launches the kiosk tab switcher script
